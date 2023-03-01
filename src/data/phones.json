@@ -1,0 +1,92 @@
+[
+    {
+        "id":0,
+        "brand": "Apple",
+        "name": "Iphone 12 Pro",
+        "memory": "512GB",
+        "cost": 1149,
+        "colors": ["gold", "silver", "gray"],
+        "ext": "/phones/Iphone12Pro.png"
+    },
+    {
+        "id":1,
+        "brand": "Apple",
+        "name": "Iphone SE 2020",
+        "memory": "64GB",
+        "cost": 349,
+        "colors": ["red", "white"],
+        "ext": "/phones/IphoneSE2020.png"
+    },
+    {
+        "id":2,
+        "brand": "Apple",
+        "name": "Iphone 13 mini",
+        "memory": "256GB",
+        "cost": 729,
+        "colors": ["blue", "white", "pink", "black"],
+        "ext": "/phones/Iphone13Mini.png"
+    },
+    {
+        "id":3,
+        "brand": "Google",
+        "name": "Pixel 6A",
+        "memory": "128GB",
+        "cost": 399,
+        "colors": ["white", "green", "black"],
+        "ext": "/phones/Pixel6A.png"
+    },
+    {
+        "id":4,
+        "brand": "Google",
+        "name": "Pixel 6 Pro",
+        "memory": "256GB",
+        "cost": 749,
+        "colors": ["black"],
+        "ext": "/phones/Pixel6Pro.png"
+    },
+    {
+        "id": 5,
+        "brand": "Samsung",
+        "name": "Galaxy S22 Plus",
+        "memory": "128GB",
+        "cost": 949,
+        "colors": ["green", "black", "white", "pink"],
+        "ext": "/phones/GalaxyS22Plus.png"
+    },
+    {
+        "id": 6,
+        "brand": "Samsung",
+        "name": "Galaxy A13",
+        "memory": "64GB",
+        "cost": 129,
+        "colors": ["black", "white"],
+        "ext": "/phones/GalaxyA13.png"
+    },
+    {
+        "id":7,
+        "brand": "Motorolla",
+        "name": "G82",
+        "memory": "128GB",
+        "cost": 249,
+        "colors": ["gray"],
+        "ext": "/phones/MotoG82.png"
+    },
+    {
+        "id":8,
+        "brand": "Motorolla",
+        "name": "Moto E30",
+        "memory": "32GB",
+        "cost": 89,
+        "colors": ["blue", "gray"],
+        "ext": "/phones/MotoE30.png"
+    },
+    {
+        "id":9,
+        "brand": "Nokia",
+        "name": "105",
+        "memory": "4MB",
+        "cost": 25,
+        "colors": ["black", "blue", "pink"],
+        "ext": "/phones/Nokia105.png"
+    }
+]
