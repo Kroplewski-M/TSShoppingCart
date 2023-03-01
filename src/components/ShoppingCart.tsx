@@ -10,7 +10,7 @@ interface ShoppingCartProps{
 export const ShoppingCart = (props:ShoppingCartProps)=>{
     const {closeCart, cartItems} = useShoppingCart();
     return(
-        <div className="w-[400px] h-[100vh] bg-[#444444] absolute top-0 right-0 z-50 pl-[25px] rounded-sm pb-[100px] overflow-y-scroll">
+        <div className="w-[400px] h-[100vh] bg-[#444444] fixed top-0 right-0 z-50 pl-[25px] rounded-sm pb-[100px] overflow-y-scroll">
             <div className="flex w-[100%] place-content-between">
                 <p className='text-gray-200 text-[30px] font-bold mt-[10px]'>Cart</p>
                 <div className='hover:cursor-pointer' onClick={closeCart}>
